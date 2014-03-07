@@ -5,4 +5,7 @@ Simple example of a single perceptron. Pressing 'a' will generate random data an
 
 Requires OpenCV to build. 
 
-![Perceptron](http://mp3guy.github.io/img/Perceptron.png)
+<p align="center">
+  <img src="http://mp3guy.github.io/img/Perceptron.png" alt="Perceptron"/>
+</p>
+
